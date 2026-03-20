@@ -40,7 +40,7 @@ export default function LandingPage() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-extrabold text-text-primary leading-[1.1] mb-6">
-            Master Your <span className="text-transparent bg-clip-text gradient-bg">Academic Journey</span> <br />
+            Master Your <span className="text-primary">Academic Journey</span> <br />
             with Intelligence.
           </h1>
           <p className="text-xl text-text-secondary max-w-2xl mx-auto mb-10 leading-relaxed">
